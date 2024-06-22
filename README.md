@@ -6,7 +6,7 @@ Build a machine learning model to predict the Sales of a Megastore that consists
 ## The Objective: 
 • Know the future Sales <br/>
 • A particular Product Demand that may be high/low in the future  <br/>
-• Maintains a good amount of stock of a particular product in the future ? <br/>
+• Maintains a good amount of stock of a particular product in the future <br/>
 • Take the plan for nearest future about employees/ products <br/>
 
 ## The Phases: 
@@ -16,7 +16,7 @@ Build a machine learning model to predict the Sales of a Megastore that consists
 4. Create and Train model using XGBoost library and XGBRFRegressor model<br/>
 5. Evaluate model: r2 Score and Mean Square Error <br/>
 
-## Main Parts: 
+## Main Parts (Detailed in Python file .ipynb): 
 
 <img width="810" alt="image" src="https://github.com/Inyourdreams12/MegaStore_Sale_ForecastModel_Python/assets/119731058/7859a26a-a347-4ef0-b55f-8b74d1f8c0c4"><br/>
 <img width="1065" alt="image" src="https://github.com/Inyourdreams12/MegaStore_Sale_ForecastModel_Python/assets/119731058/b92a1f8d-8b66-45aa-8789-9e5bc0be6f14"><br/>
